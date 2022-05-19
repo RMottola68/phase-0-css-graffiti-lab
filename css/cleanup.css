@@ -1,1 +1,21 @@
-/* write your override styles here */
+body div {
+    background-color: aquamarine;
+    width: 1400px;
+    align-items: center;
+    margin-top: 400px;
+    margin-bottom: 400px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+#wall #tag-5 {
+    size: 2000px;
+    padding-left: 3456px;
+    padding-right: 3199px;
+}
+
+.parent .slick {
+    width: 899px;
+    align-items: center;
+}
